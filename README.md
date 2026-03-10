@@ -21,8 +21,8 @@ Hi, my name is Zulhilmi Daud and this is my data analytics portfolio as I transi
 
 *Course: Peoplecert Data Science Foundation and Analyst*
 
-
+### 📈 Visualisation
 <img width="1184" height="731" alt="revenue_by_category" src="https://github.com/user-attachments/assets/f40efb66-f374-4d0a-a0d0-d87f6a41f60c" />
 
-
+### 📁 Files
 [data_understanding.ipynb](https://github.com/user-attachments/files/25859873/data_understanding.ipynb)
